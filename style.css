@@ -1,0 +1,13 @@
+/*Removes default on the body-tag*/
+body{
+    margin:0;
+}
+div.bigbox{
+  height: 200px;
+  width: auto;
+  background-color: red;
+}
+div.smallbox{
+  height: 100px;
+  width: auto;
+}
